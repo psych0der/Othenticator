@@ -1,7 +1,10 @@
 Othenticator 
 =================
 Othenticator is an oAuth authenticator that uses oauth apis of services such as facebook and google.Other services can also be added. Order can be assigned as to which services should be tried first for checking session.
-*requires curl extension installed in PHP*
+
+*Base SDK for facebook and google are included in base_sdk folder*
+
+*requires curl extension to be installed in PHP*
 
 ## Pre-requisites 
 Othenticator requires oauth tokens from services
