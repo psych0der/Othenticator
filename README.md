@@ -7,8 +7,7 @@ Othenticator is an oAuth authenticator that uses oauth apis of services such as 
 Othenticator requires oauth tokens from services
 > For facebook authentication , create an app with facebook app  dashboard : https://developers.facebook.com/apps
 
-> For google authentication visit : https://code.google.com/apis/console/?pli=1#project:507080955983:access
-
+> For google authentication visit : https://code.google.com/apis/console/?
 *Issue with google :  must predefine callback URL , this means auth token from google can only be used with predefined url*
 
 ## Settings
